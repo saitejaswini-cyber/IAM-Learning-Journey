@@ -1,5 +1,0 @@
-okta id:dev-11730793.okta.com
-okta login:tejaswini.exe@gmail.com
-custom id :page-dream-6582
- login url salesforce :https://page-dream-6582.my.salesforce.com
-sales force login:tejaswini.exe-mjug@force.com
