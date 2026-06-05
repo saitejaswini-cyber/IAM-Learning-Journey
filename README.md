@@ -1,24 +1,77 @@
+
 # IAM Learning Journey
+
+## About Me
 
 Hello, I am Sai Tejaswini Vurranki.
 
 I am currently pursuing an MSc in International Project Management at Coventry University and building my knowledge in Identity and Access Management (IAM) and Cybersecurity.
 
-## Topics I am Learning
+My goal is to develop practical IAM skills and prepare for IAM Analyst opportunities.
 
-- Authentication
-- Authorization
-- Role-Based Access Control (RBAC)
-- Multi-Factor Authentication (MFA)
-- Single Sign-On (SSO)
-- Active Directory
-- Okta
-- LDAP
-- SAML
-- OIDC
+---
 
-## Repository Purpose
+## Topics I Have Learned
 
-This repository contains my learning notes, presentations, diagrams, posters, and practical IAM-related projects.
+* Authentication
+* Authorization
+* Role-Based Access Control (RBAC)
+* Multi-Factor Authentication (MFA)
+* Single Sign-On (SSO)
+* SAML Basics
+* Identity Lifecycle Management (Joiner, Mover, Leaver)
+* Provisioning and Deprovisioning
+* Least Privilege
+* Segregation of Duties (SoD)
+* Access Reviews
 
-I am documenting my journey as I continue to learn and grow in Identity and Access Management and Cybersecurity.
+---
+
+## Currently Learning
+
+* OAuth 2.0
+* OpenID Connect (OIDC)
+* Okta
+* Microsoft Entra ID
+* Active Directory
+* LDAP
+
+---
+
+## Practical IAM Scenarios Completed
+
+### User Provisioning
+
+Created user accounts and assigned appropriate access based on business roles.
+
+### User Deprovisioning
+
+Removed access when employees leave the organization.
+
+### Joiner-Mover-Leaver (JML)
+
+Understood how IAM teams manage employees throughout their lifecycle.
+
+### Access Reviews
+
+Reviewed user access and removed unnecessary permissions.
+
+### Least Privilege
+
+Applied the principle of granting only the minimum required access.
+
+---
+
+## Tools
+
+* Okta (Learning)
+* Auth0 (Learning)
+* Microsoft Entra ID (Learning)
+* GitHub
+
+---
+
+## Learning Goal
+
+To build strong IAM fundamentals through practical labs, documentation, and hands-on experience with industry IAM tools.
+
