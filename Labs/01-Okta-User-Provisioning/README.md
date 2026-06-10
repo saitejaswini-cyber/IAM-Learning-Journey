@@ -51,3 +51,13 @@ When a new employee joins an organization, the IAM team provisions a user accoun
 ## Outcome
 
 Successfully created user accounts in Okta and gained hands-on experience with identity provisioning and user management workflows.
+# Lab 1 - Okta User Provisioning
+
+## Demo Video
+
+Google Drive Video:
+https://drive.google.com/your-link:https://drive.google.com/file/d/1r3ks6oExgMtM5ZQgHj9A9Tqh3E_kk7Lv/view?usp=sharing
+
+## Objective
+
+To understand user provisioning in Okta.
